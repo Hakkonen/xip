@@ -1,0 +1,18 @@
+{
+    "version": "xip100",
+    "id": 1,
+    "name": "",
+    "artist": "",
+    "description": "",
+    "attributes": [],
+    "media": {
+        "image": "",
+        "video": "",
+        "iframe": {
+            "height": 0,
+            "width": 0,
+            "src": ""
+        }
+    },
+    "external_url": ""
+}

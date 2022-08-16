@@ -1,0 +1,35 @@
+{
+    "version": "xip100",
+    "id": 1,
+    "name": "HELLOWORLD",
+    "artist": "Fabrique",
+    "description": "This is the prototype for the xip100 NFT data standard for new NFTs minted on the Counterparty platform.",
+    "attributes": [
+        { 
+            "trait_type": "background",
+            "value": "cream"
+        },
+        { 
+            "trait_type": "fur",
+            "value": "black" 
+        },
+        {
+            "trait_type": "hitpoints",
+            "value": "100"
+        },
+        {
+            "trait_type": "birthday",
+            "value": 1546360800
+        }
+    ],
+    "media": {
+        "image": "https://s3.us-west-1.amazonaws.com/fakeasf.club/assets/LEPEPENOIR/LEPEPENOIR.png",
+        "video": "https://arweave.net/-xqQAvxCn1P6hKHcJEGHeG0raZQl6fxu24uZBc67o6s/img491_video.mp4",
+        "iframe": {
+            "height": 560,
+            "width": 400,
+            "src": "https://frenzone.net/questfrens/card/index.html?fren=1"
+        }
+    },
+    "external_url": "https://questfrens.io"
+}
